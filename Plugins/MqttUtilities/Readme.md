@@ -1,0 +1,1 @@
+[recompile(fix package)] https://github.com/NinevaStudios/mqtt-utilities-unreal
