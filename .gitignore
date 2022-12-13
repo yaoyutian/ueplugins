@@ -58,6 +58,8 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 !Plugins/*/Source/ThirdParty/*/**
+!Plugins/*/ThirdParty/*/**
+
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
